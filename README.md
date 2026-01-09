@@ -21,4 +21,4 @@ Bu proje, Türk-İslam medeniyetinin düşünürlerinden, devlet adamlarından v
 1. Projeyi bilgisayarınıza indirin:
    ```bash
    git clone https://github.com/SELIMCNR/Full-Stack-Motivation
-   cd hikmetli-sozler
+   cd motivationapi
